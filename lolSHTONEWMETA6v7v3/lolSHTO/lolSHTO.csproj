@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{13D8E82F-FE8B-4193-B9AE-2C1BA5F9D599}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>lolSHTO</RootNamespace>
+    <AssemblyName>lolSHTO</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AstranaarPack\AstPIC.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AstPIC.resx</DependentUpon>
+    </Compile>
+    <Compile Include="AstranaarPack\Astranaar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AstranaarPack\Astranaar.Designer.cs">
+      <DependentUpon>Astranaar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DarkCoastPack\CastleKlibord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DarkCoastPack\CastleKlibord.Designer.cs">
+      <DependentUpon>CastleKlibord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DarkCoastPack\Kilbord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DarkCoastPack\Kilbord.Designer.cs">
+      <DependentUpon>Kilbord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Ashenvale.cs" />
+    <Compile Include="Classes\Pers.cs" />
+    <Compile Include="DarkCoastPack\GuildHouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DarkCoastPack\GuildHouse.Designer.cs">
+      <DependentUpon>GuildHouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMENU\CreatePes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMENU\CreatePes.Designer.cs">
+      <DependentUpon>CreatePes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Inventar.cs" />
+    <Compile Include="Classes\GameSave.cs" />
+    <Compile Include="MainMENU\Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMENU\Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMENU\MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMENU\MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenuImage.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MainMenuImage.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Quest.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="DarkCoastPack\ResDC.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ResDC.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res\Maps.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Maps.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res\Personage.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Personage.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res\Building.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Building.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res\Footer.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Footer.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res\Header.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Header.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res\Icon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Icon.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res\Main.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Main.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res\MapPicYL.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MapPicYL.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res\Rouge.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rouge.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res\SaveInvent.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SaveInvent.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res\Units.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Units.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res\Weapon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Weapon.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Building\TownHallAst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Building\TownHallAst.Designer.cs">
+      <DependentUpon>TownHallAst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Building\Tavern.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Building\Tavern.Designer.cs">
+      <DependentUpon>Tavern.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Building\TradeShopAst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Building\TradeShopAst.Designer.cs">
+      <DependentUpon>TradeShopAst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Scene.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Scene.Designer.cs">
+      <DependentUpon>Scene.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DarkCoastPack\WreckageShip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DarkCoastPack\WreckageShip.Designer.cs">
+      <DependentUpon>WreckageShip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tutorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tutorial.Designer.cs">
+      <DependentUpon>Tutorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YL\SawmillYL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YL\SawmillYL.Designer.cs">
+      <DependentUpon>SawmillYL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Бой.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Бой.Designer.cs">
+      <DependentUpon>Бой.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Инвентарь.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Инвентарь.Designer.cs">
+      <DependentUpon>Инвентарь.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Монстр.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Монстр.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Персонаж.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Персонаж.Designer.cs">
+      <DependentUpon>Персонаж.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Bandit .cs" />
+    <Compile Include="Locations\ТемныеБерега.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Locations\ТемныеБерега.Designer.cs">
+      <DependentUpon>ТемныеБерега.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Locations\ЯЯсеневыйЛес.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Locations\ЯЯсеневыйЛес.Designer.cs">
+      <DependentUpon>ЯЯсеневыйЛес.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AstranaarPack\AstPIC.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>AstPIC.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AstranaarPack\Astranaar.resx">
+      <DependentUpon>Astranaar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Building\Tavern.resx">
+      <DependentUpon>Tavern.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Building\TownHallAst.resx">
+      <DependentUpon>TownHallAst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Building\TradeShopAst.resx">
+      <DependentUpon>TradeShopAst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DarkCoastPack\CastleKlibord.resx">
+      <DependentUpon>CastleKlibord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DarkCoastPack\GuildHouse.resx">
+      <DependentUpon>GuildHouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DarkCoastPack\Kilbord.resx">
+      <DependentUpon>Kilbord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMENU\CreatePes.resx">
+      <DependentUpon>CreatePes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMENU\Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMENU\MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenuImage.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>MainMenuImage.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DarkCoastPack\ResDC.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ResDC.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res\Icon.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Icon.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res\MapPicYL.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>MapPicYL.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res\Maps.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Maps.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res\Personage.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Personage.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res\Building.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Building.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res\Footer.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Footer.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res\Header.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Header.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res\Main.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Main.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res\SaveInvent.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>SaveInvent.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res\Units.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Units.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res\Weapon.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Weapon.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res\Rouge.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Rouge.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Scene.resx">
+      <DependentUpon>Scene.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DarkCoastPack\WreckageShip.resx">
+      <DependentUpon>WreckageShip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tutorial.resx">
+      <DependentUpon>Tutorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YL\SawmillYL.resx">
+      <DependentUpon>SawmillYL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Бой.resx">
+      <DependentUpon>Бой.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Инвентарь.resx">
+      <DependentUpon>Инвентарь.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Монстр.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Монстр.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Персонаж.resx">
+      <DependentUpon>Персонаж.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Locations\ТемныеБерега.resx">
+      <DependentUpon>ТемныеБерега.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Locations\ЯЯсеневыйЛес.resx">
+      <DependentUpon>ЯЯсеневыйЛес.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Темные Берега\Ship.jpg" />
+    <None Include="Resources\Темные Берега\GuildIcon\Олень.png" />
+    <None Include="Resources\Темные Берега\GuildIcon\Медведь.png" />
+    <None Include="Resources\Темные Берега\GuildIcon\Бык.png" />
+    <None Include="Resources\Темные Берега\GuildHouseOpen.jpg" />
+    <None Include="Resources\Темные Берега\GuildHouse.png" />
+    <None Include="Resources\Темные Берега\Guard.png" />
+    <None Include="Resources\Темные Берега\Zm95iNHzSq4.jpg" />
+    <None Include="Resources\Юнитс\Империя\Footman.png" />
+    <None Include="Resources\Юнитс\Империя\Captan.png" />
+    <None Include="Resources\ЯсеневыйЛес\BigThruse.jpg" />
+    <None Include="Resources\ЯсеневыйЛес\Ashenvale3.jpg" />
+    <None Include="Resources\ЯсеневыйЛес\ashenvale2jpg.jpg" />
+    <None Include="Resources\ЯсеневыйЛес\Ashenvale.jpg" />
+    <None Include="Resources\ЯсеневыйЛес\Perehod.jpg" />
+    <None Include="Resources\ЯсеневыйЛес\unnamed.jpg" />
+    <None Include="Resources\ЯсеневыйЛес\oHOailRFQlE.jpg" />
+    <None Include="Resources\ЯсеневыйЛес\gallery_2991_5_125764.jpg" />
+    <None Include="Resources\ЯсеневыйЛес\DuVGLYlWFL8.jpg" />
+    <None Include="Resources\ЯсеневыйЛес\152504-.jpg" />
+    <None Include="Resources\ТорговецМини.png" />
+    <None Include="Resources\1.jpg" />
+    <None Include="Resources\2.jpg" />
+    <None Include="Resources\Голова1.png" />
+    <None Include="Resources\Голова2.png" />
+    <None Include="Resources\Голова3.png" />
+    <None Include="Resources\Голова4.png" />
+    <None Include="Resources\Голова5.png" />
+    <None Include="Resources\Броня1.png" />
+    <None Include="Resources\Броня2.png" />
+    <None Include="Resources\Броня3.png" />
+    <None Include="Resources\Броня4.png" />
+    <None Include="Resources\Броня5.png" />
+    <None Include="Resources\Save.txt" />
+    <None Include="Resources\АукционерМини.png" />
+    <None Include="Resources\Building\Barracks.jpg" />
+    <None Include="Resources\Building\Forge.jpg" />
+    <None Include="Resources\Building\SawMill.jpg" />
+    <None Include="Resources\Building\Tower.jpg" />
+    <None Include="Resources\Building\TowerHall.jpg" />
+    <None Include="Resources\Building\Workshop.jpg" />
+    <None Include="Resources\Building\Barraks.png" />
+    <None Include="Resources\Building\SawMill.png" />
+    <None Include="Resources\Building\Barracks.png" />
+    <None Include="Resources\Building\Forge.png" />
+    <None Include="Resources\Building\Tower.png" />
+    <None Include="Resources\Building\TownHall.png" />
+    <None Include="Resources\Building\Workshop.png" />
+    <None Include="Resources\Icon\Castle.png" />
+    <None Include="Resources\Icon\SaveHouse.png" />
+    <None Include="Resources\Icon\TransitionBot.jpg" />
+    <None Include="Resources\Icon\TransitionTop.jpg" />
+    <None Include="Resources\Icon\Znak.png" />
+    <None Include="Resources\Icon\TransitionBot.png" />
+    <None Include="Resources\Icon\TransitionTop.png" />
+    <None Include="Resources\Астранаар\ZdF5annMpxA.jpg" />
+    <None Include="Resources\Астранаар\Tavern.png" />
+    <None Include="Resources\Астранаар\TradeShop.png" />
+    <None Include="Resources\Астранаар\TownHall.png" />
+    <None Include="Resources\Icon\SawMillIcon.png" />
+    <None Include="Resources\Icon\Tower.png" />
+    <None Include="Resources\Карты\Темные берега.png" />
+    <None Include="Resources\Меню1.jpg" />
+    <None Include="Resources\Меню2.jpg" />
+    <None Include="Resources\Меню3.jpg" />
+    <None Include="Resources\Меню4.jpg" />
+    <None Include="Resources\Карты\DarkСoast.jpg" />
+    <None Include="Resources\Карты\DarkСoast.png" />
+    <None Include="Resources\Карты\14128771986738.png" />
+    <None Include="Resources\Icon\Ship.png" />
+    <None Include="Resources\Астранаар\Castle.png" />
+    <None Include="Resources\Icon\Переход.png" />
+    <None Include="Resources\Icon\Переход.ico" />
+    <None Include="Resources\а.ico" />
+    <Content Include="Resources\Монстр\Волк\Волк.jpg" />
+    <Content Include="Resources\Монстр\Волк\Волк2.jpg" />
+    <Content Include="Resources\Монстр\Волк\Волк3.jpg" />
+    <Content Include="Resources\Монстр\Волк\ВолкСнег.jpg" />
+    <Content Include="Resources\Монстр\Волк\ВолкСнег1.jpg" />
+    <Content Include="Resources\Монстр\Волк\ВолкСнег3.jpg" />
+    <Content Include="Resources\Монстр\Медведь\Медведь1.jpg" />
+    <Content Include="Resources\Монстр\Медведь\Медведь2.jpg" />
+    <Content Include="Resources\Монстр\Медведь\Медведь3.jpg" />
+    <Content Include="Resources\Монстр\Медведь\МедведьСнег1.jpg" />
+    <None Include="Resources\Монстр\Разбойник\QuestRouge.jpg" />
+    <None Include="Resources\Монстр\Разбойник\Бандитс\QuestBandit.png" />
+    <None Include="Resources\Монстр\Разбойник\Бандитс\Бандит1.png" />
+    <None Include="Resources\Монстр\Разбойник\Бандитс\Бандит2.png" />
+    <None Include="Resources\Монстр\Разбойник\Бандитс\Бандит3.png" />
+    <None Include="Resources\Монстр\Разбойник\Бандитс\Бандит4.png" />
+    <Content Include="Resources\Монстр\Разбойник\Разбойник1.jpg" />
+    <Content Include="Resources\Монстр\Разбойник\Разбойник2.jpg" />
+    <Content Include="Resources\Монстр\Разбойник\Разбойник3.jpg" />
+    <Content Include="Resources\Монстр\Разбойник\Разбойник4.jpg" />
+    <Content Include="Resources\Монстр\Разбойник\Разбойник5.jpg" />
+    <None Include="Resources\Ноги1.png" />
+    <None Include="Resources\Ноги2.png" />
+    <None Include="Resources\Ноги3.png" />
+    <None Include="Resources\Ноги4.png" />
+    <None Include="Resources\Ноги5.png" />
+    <None Include="Resources\Оружие1.png" />
+    <None Include="Resources\Оружие2.png" />
+    <None Include="Resources\Оружие3.png" />
+    <None Include="Resources\Оружие4.png" />
+    <None Include="Resources\Оружие5.png" />
+    <None Include="Resources\Персонаж\Изображение1.jpg" />
+    <None Include="Resources\Персонаж\Изображение2.jpg" />
+    <None Include="Resources\Персонаж\Изображение3.jpg" />
+    <None Include="Resources\Персонаж\Изображение4.jpg" />
+    <None Include="Resources\Персонаж\Изображение5.jpg" />
+    <None Include="Resources\Персонаж\Изображение6.jpg" />
+    <None Include="Resources\Персонаж\Изображение7.jpg" />
+    <None Include="Resources\Персонаж\New Project %281%29.png" />
+    <None Include="Resources\Персонаж\Персонажи\Персонаж1.png" />
+    <None Include="Resources\Персонаж\Персонажи\Персонаж2.png" />
+    <None Include="Resources\Персонаж\Персонажи\Персонаж3.png" />
+    <None Include="Resources\Персонаж\Персонажи\Персонаж4.png" />
+    <None Include="Resources\Персонаж\Персонажи\Персонаж5.png" />
+    <None Include="Resources\Персонаж\Персонажи\Персонаж6.png" />
+    <None Include="Resources\Персонаж\Персонажи\Персонаж7.png" />
+    <Content Include="Resources\Степи\Степи1.jpg" />
+    <Content Include="Resources\Степи\Степи5.jpg" />
+    <Content Include="Resources\Степи\Степи4.jpg" />
+    <Content Include="Resources\Степи\Степи3.jpg" />
+    <Content Include="Resources\Степи\Степи2.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

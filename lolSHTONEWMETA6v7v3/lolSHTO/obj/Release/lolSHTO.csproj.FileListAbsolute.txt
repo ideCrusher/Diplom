@@ -1,0 +1,239 @@
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\bin\Release\lolSHTO.exe.config
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\bin\Release\lolSHTO.exe
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\bin\Release\lolSHTO.pdb
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.csprojAssemblyReference.cache
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.AstranaarPack.AstPIC.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Astranaar.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.TradeShop.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.CreatePes.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Loading.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.MainMenu.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.MainMenuImage.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Resource1.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Res.Footer.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Res.Header.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Res.Main.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Res.SaveInvent.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Res.Weapon.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Res.Rouge.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.SawmillYL.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Бой.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Properties.Resources.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Инвентарь.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Монстр.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.Персонаж.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.ТемныеБерега.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.ЯЯсеневыйЛес.resources
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.csproj.GenerateResource.cache
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.exe
+C:\Users\ide\Desktop\lolSHTONEWMETA11v2\lolSHTO\obj\Release\lolSHTO.pdb
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\bin\Release\lolSHTO.exe.config
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\bin\Release\lolSHTO.exe
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\bin\Release\lolSHTO.pdb
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.AstranaarPack.AstPIC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Astranaar.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.TownHall.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Tavern.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.TradeShop.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.CreatePes.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Loading.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.MainMenu.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.MainMenuImage.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Res.Icon.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Res.MapPicYL.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Res.Maps.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Res.Personage.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Res.Building.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Res.Footer.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Res.Header.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Res.Main.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Res.SaveInvent.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Res.Units.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Res.Weapon.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Res.Rouge.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.SawmillYL.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Бой.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Инвентарь.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Монстр.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.Персонаж.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.ТемныеБерега.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.ЯЯсеневыйЛес.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.exe
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA5v2\lolSHTO\obj\Release\lolSHTO.pdb
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.AstranaarPack.AstPIC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Astranaar.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.TownHall.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Tavern.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.TradeShop.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.CreatePes.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Loading.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.MainMenu.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.MainMenuImage.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Res.Icon.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Res.MapPicYL.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Res.Personage.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Res.Building.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Res.Footer.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Res.Header.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Res.Main.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Res.SaveInvent.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Res.Units.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Res.Weapon.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Res.Rouge.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.SawmillYL.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Бой.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Инвентарь.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Монстр.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Персонаж.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.ТемныеБерега.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.ЯЯсеневыйЛес.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.exe
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.pdb
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Res.Maps.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\bin\Release\lolSHTO.exe.config
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\bin\Release\lolSHTO.exe
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\bin\Release\lolSHTO.pdb
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.CasleKlibord.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.CastleDC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.DarkCoastPack.ResDC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.Scene.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.GuildHouse.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v2\lolSHTO\obj\Release\lolSHTO.WreckageShip.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\bin\Release\lolSHTO.exe.config
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\bin\Release\lolSHTO.exe
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\bin\Release\lolSHTO.pdb
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.AstranaarPack.AstPIC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Astranaar.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.TownHall.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Tavern.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.TradeShop.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.CasleKlibord.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.GuildHouse.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.CastleDC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.CreatePes.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Loading.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.MainMenu.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.MainMenuImage.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.DarkCoastPack.ResDC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Res.Icon.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Res.MapPicYL.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Res.Maps.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Res.Personage.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Res.Building.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Res.Footer.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Res.Header.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Res.Main.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Res.SaveInvent.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Res.Units.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Res.Weapon.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Res.Rouge.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Scene.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.WreckageShip.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Tutorial.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.SawmillYL.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Бой.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Инвентарь.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Монстр.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.Персонаж.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.ТемныеБерега.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.ЯЯсеневыйЛес.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.exe
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.pdb
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7\lolSHTO\obj\Release\lolSHTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\bin\Release\lolSHTO.exe.config
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\bin\Release\lolSHTO.exe
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\bin\Release\lolSHTO.pdb
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.AstranaarPack.AstPIC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Astranaar.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.TownHall.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Tavern.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.TradeShop.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.CasleKlibord.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.GuildHouse.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.CastleDC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.CreatePes.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Loading.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.MainMenu.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.MainMenuImage.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.DarkCoastPack.ResDC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Res.Icon.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Res.MapPicYL.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Res.Maps.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Res.Personage.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Res.Building.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Res.Footer.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Res.Header.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Res.Main.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Res.SaveInvent.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Res.Units.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Res.Weapon.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Res.Rouge.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Scene.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.WreckageShip.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Tutorial.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.SawmillYL.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Бой.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Инвентарь.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Монстр.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.Персонаж.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.ТемныеБерега.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.ЯЯсеневыйЛес.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.exe
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v2\lolSHTO\obj\Release\lolSHTO.pdb
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.AstranaarPack.AstPIC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Astranaar.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.TownHall.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Tavern.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.TradeShop.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.CasleKlibord.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.GuildHouse.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.CastleDC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.CreatePes.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Loading.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.MainMenu.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.MainMenuImage.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.DarkCoastPack.ResDC.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Res.Icon.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Res.MapPicYL.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Res.Maps.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Res.Personage.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Res.Building.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Res.Footer.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Res.Header.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Res.Main.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Res.SaveInvent.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Res.Units.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Res.Weapon.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Res.Rouge.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Scene.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.WreckageShip.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Tutorial.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.SawmillYL.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Бой.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Инвентарь.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Монстр.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.Персонаж.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.ТемныеБерега.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.ЯЯсеневыйЛес.resources
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.exe
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\obj\Release\lolSHTO.pdb
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\bin\Release\lolSHTO.exe.config
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\bin\Release\lolSHTO.exe
+C:\Users\User\Desktop\Новая папка\lolSHTONEWMETA6v7v3\lolSHTO\bin\Release\lolSHTO.pdb
