@@ -8,7 +8,7 @@ Foulder "Exe" contains file exe and game save, foulder "Exe+Code+Resources" cont
 
 Aplication on interface in Russian. yes my bad:D(The habit of writing in English came with time)
 
-Users manual.
+<h1>Users manual.</h1>
 To launch the application, use the "exe" file located in the "exe" folder.
 After opens application use button new game.
 For creating personage use boxs in form, thereafter use button create.
