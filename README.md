@@ -6,6 +6,8 @@ Evaluation this application and all diploma project: 5+.
 The application is developed in C#, the code in written from Visual studio.
 Foulder "Exe" contains file exe and game save, foulder "Exe+Code+Resources" contains all resources in developed and files wich code.
 
+![alt text](Screenshots/guide.png "guide.png")
+
 Aplication on interface in Russian. yes my bad:D(The habit of writing in English came with time)
 
 
