@@ -37,14 +37,14 @@ Using the inventory interface of the form, you can take off \ to put on items an
 
 Interface of the form "character" will allow you to see the strength of your character, and upgrade his after lvlup.
 
-![alt text](Screenshots/Astranaar.png "Astranaar")
+![alt text](Screenshots/Character.png "Character")
 
 On the map, you will find different places marked with icons, such as cities,questzone, crossing to the next location.
 
 To enter the city, you need to click on its icon and wait for the dialog box to ask you if you want to enter. 
 After entering, you will be able to visit the tavern, shop and Town Hall.
 
-![alt text](Screenshots/Hall.jpg "Town")
+![alt text](Screenshots/Astranaar.png "Astranaar")
 
 In order to buy items from the shop, you need to select an item from the shop's inventory and press the "Buy" button,
 then if you have enough coins, the item will be sent to your inventory.
